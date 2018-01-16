@@ -4,4 +4,11 @@ body {
 
 .container-fluid {
             width: 100%;
-        } 
+        }
+
+.custom {
+    width: 95px !important;
+    position: absolute;
+    right: 5%;
+    top: 50px;
+}
